@@ -90,4 +90,6 @@ beauty.py        |  包含磨皮，大眼的美化函数
 ------------------------
 
 链接：https://pan.baidu.com/s/1MG8IFymIweS1KsmN-hSk3g?pwd=39pq 
-提取码：39pq
+提取码：39pq  
+
+shape_predictor_68_face_landmarks文件放在m_dlib目录下，u2net.pth放在\u_2_net\saved_models\u2net\u2net.pth目录下
